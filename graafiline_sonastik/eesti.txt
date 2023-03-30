@@ -1,0 +1,22 @@
+﻿sisend ja väljund
+käsk
+programmeerimiskeel
+süntaks
+semantika/tähendusõpetus
+masinakeel
+assemblerkeel
+masinkäsk
+muutuja
+täisarv
+ujukomaarv
+sõne/tekst
+tõeväärtus
+kommentaar
+viga
+tehe
+tõene
+väär
+hargnemine
+haru
+taane
+ussikas
